@@ -1,7 +1,7 @@
 # CsvReader
 This is a simple C procedure that allows to read .csv files.
 
-The file contains a procedure called getDataFromCSV that receives an array as parater. Note that the array X is passed as reference. 
+The file contains a procedure called getDataFromCSV that receives an array as parameter. Note that the array X is passed as reference. 
 
 X will be created with a length of rows * columns, to access the rows and columns use the code X[i*columns + j].
 
